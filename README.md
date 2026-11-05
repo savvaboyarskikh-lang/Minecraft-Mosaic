@@ -27,7 +27,7 @@
 
 ### 📸 Интерфейс программы
 
-![Интерфейс приложения](screenshot.png)
+![Интерфейс приложения](screenshot_rus.png)
 
 ---
 
@@ -44,10 +44,12 @@ The program scans block textures, calculates their precise average color (smartl
 *   **👻 Skip Transparency (Alpha 100%):** A dedicated option to fully ignore empty areas on PNG images, preventing the app from placing unnecessary blocks.
 *   **🛑 Safe Multithreading:** The generation process runs in a separate thread, keeping the GUI responsive while the progress bar smoothly tracks status. Generation can be instantly aborted via the "Cancel" button.
 
+![Интерфейс приложения](screenshot_en.png)
 ### 📥 Download Ready App
 
 If you don't have Python installed, you can download the pre-compiled stand-alone executable version for macOS below:
 
 [![Download for macOS](https://shields.io)](https://github.com)
+
 
 > ⚠️ **Launch Note:** Since the app is self-signed, macOS Gatekeeper security will block the first launch. To run it, right-click the `.app` file, select **Open**, and then confirm by clicking **"Open"** in the popup dialog.
