@@ -21,7 +21,7 @@
 
 Если у вас не установлен Python, вы можете скачать готовую автономную версию программы для macOS по кнопке ниже:
 
-[https://github.com/savvaboyarskikh-lang/Minecraft-Mosaic/releases/tag/v1.0![Скачать для macOS](https://github.com)
+[![Скачать для macOS](https://github.com/savvaboyarskikh-lang/Minecraft-Mosaic/releases/tag/v1.0)
 
 > ⚠️ **Примечание для запуска:** Так как приложение собрано вручную, система защиты Gatekeeper заблокирует первый запуск. Чтобы запустить его, нажмите на файл `.app` правой кнопкой мыши, выберите **Открыть**, а затем во всплывающем окне подтвердите запуск кнопкой **«Открыть»**.
 
@@ -49,7 +49,7 @@ The program scans block textures, calculates their precise average color (smartl
 
 If you don't have Python installed, you can download the pre-compiled stand-alone executable version for macOS below:
 
-[https://github.com/savvaboyarskikh-lang/Minecraft-Mosaic/releases/tag/v1.0![Download for macOS](https://github.com)
+![Download for macOS](https://github.com/savvaboyarskikh-lang/Minecraft-Mosaic/releases/tag/v1.0)
 
 
 > ⚠️ **Launch Note:** Since the app is self-signed, macOS Gatekeeper security will block the first launch. To run it, right-click the `.app` file, select **Open**, and then confirm by clicking **"Open"** in the popup dialog.
